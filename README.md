@@ -1,5 +1,5 @@
 - Hi, I'm @cleomarjunior.
-- I'm a aata analyst, graduated in Mathematics, with more than 3 years of experience working with statistical analysis and approximately 2 years working with data analysis.
+- I'm a data analyst, graduated in Mathematics, with more than 3 years of experience working with statistical analysis and approximately 2 years working with data analysis.
 - Always seeking to clarify the relationships of the samples with the hypotheses. 
 - In my last relevant experiences I had the opportunity to improve my skills with BI technologies such as: Power BI, MySQL, PostgreSQL, Excel, Looker Studio. 
 - I have generalist knowledge in Digital Marketing, in order to be able to analyze and cooperate Growth metrics, validate UX tests and scale some projections in relation to the market.
